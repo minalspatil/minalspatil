@@ -6,6 +6,8 @@
 in times of uncertainity. 
 - 📫 You can reach me-  minal.patil@umu.se
 
+![Visitor Count](https://profile-counter.glitch.me/minalspatil/count.svg)
+
 <!---
 minalspatil/minalspatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
